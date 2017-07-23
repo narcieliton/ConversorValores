@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversor de Valores</string>
+    <string name="r_valor_em_real">R$ valor em real</string>
+    <string-array name="moedas">
+        <item>Dollar</item>
+        <item>Euro</item>
+    </string-array>
+
+</resources>
